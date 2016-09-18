@@ -39,7 +39,7 @@ void loop()
 
 
 
-void alarmMatch()
+void alarmMatch(void)
 {
   alarmFlag = true; // Set flag
 }
